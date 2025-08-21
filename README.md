@@ -33,4 +33,3 @@ Just open `index.html` in your browser. For frameworks (React/Next), use Netlify
 ---
 
 © 2025 Lerato Malinga
-"# leratomalinga.github.io" 

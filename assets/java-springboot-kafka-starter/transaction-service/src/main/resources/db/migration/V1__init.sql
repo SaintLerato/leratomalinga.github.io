@@ -1,8 +1,0 @@
-CREATE TABLE IF NOT EXISTS transactions (
-  id SERIAL PRIMARY KEY,
-  account_id TEXT NOT NULL,
-  amount DOUBLE PRECISION NOT NULL,
-  currency TEXT NOT NULL,
-  channel TEXT NOT NULL,
-  created_at TIMESTAMPTZ NOT NULL
-);
